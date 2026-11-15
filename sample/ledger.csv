@@ -1,0 +1,5 @@
+charge_id,amount,currency,refunded
+ch_001,4900,usd,0
+ch_002,11000,usd,0
+ch_003,2500,eur,0
+ch_999,3000,usd,0
